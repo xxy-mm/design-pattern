@@ -8,5 +8,6 @@
     "**/Thumbs.db": true
   },
   "hide-files.files": [],
-  "cSpell.words": ["pnpx"]
+  "cSpell.words": ["pnpx"],
+  "conventionalCommits.scopes": ["status-pattern"]
 }
